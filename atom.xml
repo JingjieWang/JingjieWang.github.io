@@ -1,0 +1,29 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>jack</title>
+    <subtitle>jackblog</subtitle>
+    <link href="/atom.xml" rel="self"/>
+    <link href="http://www.wangjingjie.cn/"/>
+    <updated>2017-01-10T12:07:33.000Z</updated>
+    <id>http://www.wangjingjie.cn</id>
+    <author>
+        <name>jack</name>
+    </author>
+    <generator uri="http://hexo.io/">Hexo</generator>
+    <entry>
+        <title>十二月</title>
+        <link href="https://www.haomwei.com/emotion/December.html"/>
+        <id>https://www.haomwei.com/emotion/December.html</id>
+        <published>2016-12-01T16:00:00.000Z</published>
+        <updated>2016-12-02T09:03:47.000Z</updated>
+        <content type="html">
+            <![CDATA[
+<p>已然是2016的最后一个月了，好一个时光如梭，岁月无情。再不记载点什么一年又这么浑浑噩噩地消逝了。当然，即便写下千言万语，还是改变不了又混吃等死了一年的残酷现实。京城的冬日里难得几天连续晴朗，让人的心情也光明了一些，然而刚刚暗自欣喜一下，就看到了明天雾霾红色预警的新闻……</p>
+ <p>今天偶尔看到了一首古老而冷门的敦煌曲子词（《敦煌曲·何满子四首》其四），竟是来自于一位糙汉朋友的个性签名，不过并不影响其意境带来的悠悠回味：</p>
+ <blockquote>
+ <p>金河一去路千千，欲到天邊更有天。馬上不知時曆變，回來未半早經年。</p>
+ </blockquote>
+ <p>不知为何，尽管并不知道这里的“金河”所指何地，但它勾起了我思乡的愁绪……</p>
+]]>
+        </content>
+    </entry>
+</feed>
